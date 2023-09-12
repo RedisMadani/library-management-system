@@ -94,3 +94,5 @@ C:/path/to/xampp5.6.33/php/php.exe artisan serve
 - The system automates book entry by generating Issue IDs based on the number of issues entered by librarians.
 - Librarians can approve students, keeping a record of their actions.
 - The system facilitates book issuance and return, providing an overview of outstanding logs.
+
+![screencapture-library-local-1450375427449](https://github.com/RedisMadani/library-management-system/assets/136177376/85cb86df-cc7b-4023-9d2b-28f705d20a1c)
